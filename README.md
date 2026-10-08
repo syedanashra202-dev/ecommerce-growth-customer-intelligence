@@ -1,4 +1,7 @@
 # E-Commerce Growth & Customer Intelligence Platform
+Created by: Syeda Nashra Fatima
+BCA Final-Year Student | Aspiring Data Analyst
+Hyderabad, Telangana, India
 
 An end-to-end e-commerce analytics project focused on **business performance, customer intelligence, product profitability, and sales-channel analysis**.
 
